@@ -51,7 +51,9 @@ python mailer.py --start 51 --end 100 --name "Ahmet" --title "President" --data 
 ```
 
 **CLI Arguments Reference**
+
 |Argument|Type|Requirement|Description|
+|--------|----|-----------|-----------|
 |--start|Integer|Required|Excel row number to begin sending from.|
 |--end|Integer|Required|Excel row number to stop at.|
 |--name|String|Required|Your full name for the signature.|
